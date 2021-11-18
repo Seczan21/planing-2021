@@ -1,0 +1,5 @@
+planning 2021
+- Saya memulai bahasa pemrograman dengan bahasa java script 
+- Saya ingin konsisten dalam bahasa tersebut
+- Saya ingin bootcamp otodidak java script selama 1 tahun
+- Membuat platform javascript
