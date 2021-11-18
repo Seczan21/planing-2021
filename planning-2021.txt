@@ -3,3 +3,5 @@ planning 2021
 - Saya ingin konsisten dalam bahasa tersebut
 - Saya ingin bootcamp otodidak java script selama 1 tahun
 - Membuat platform javascript
+- Membuat Website / market place
+- Membuat jadwal dont break the chain!
