@@ -3,6 +3,7 @@ Rencana konten wpu
  a. ES6
  b. Framework Java Script
   ^ Vue
+  ^ React
 - membuat framework react native
 - membuat mobile
  ^ Java
