@@ -5,7 +5,8 @@ Rencana konten wpu
  c. Basic JavaScript
   1. Menambahkan React
   ^ Vue
-  ^ React
+  ^ Angular
+  ^ React Native
 - security 
  1. Linux
  2. Debian
