@@ -2,9 +2,12 @@ Rencana konten wpu
 - belajar javascript
  a. ES6
  b. Framework Java Script
+ c. Basic JavaScript
   1. Menambahkan React
-=======
   ^ Vue
   ^ React
 - security 
  1. Linux
+ 2. Debian
+ 3. Mint
+ 
