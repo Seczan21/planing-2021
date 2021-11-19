@@ -12,3 +12,5 @@ Rencana konten wpu
  2. Debian
  3. Mint
  
+- FLUTTER
+- BOOTCAMP
