@@ -2,9 +2,9 @@ Rencana konten wpu
 - belajar javascript
  a. ES6
  b. Framework Java Script
-  1. Menambahkan Anguler
-
+  ^ Vue
+  ^ React
 - membuat framework react native
 - membuat mobile
- 1. Java 
+ ^ Java
 - security 
