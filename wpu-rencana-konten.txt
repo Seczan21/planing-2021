@@ -3,8 +3,8 @@ Rencana konten wpu
  a. ES6
  b. Framework Java Script
   1. Menambahkan React
-=======
   ^ Vue
-  ^ React
+  ^ Angular
+  ^ React Native
 - security 
  1. Linux
